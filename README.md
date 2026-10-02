@@ -9,11 +9,22 @@
 
 *Pixel Game  
 
+*3D modeling  
+
 ## Curent Skills：  
 
 *Basic Python  
 
 *Basic Web Crawler  
+
+*A little C language
+## Current Learing： 
+
+*Learn pixel art in Aseprite  
+
+*Blender;Try modeling some of my favorite sprites from Roco Kingdom  
+
+*Python and C language  
 
 ## What I Want To Built：  
 
